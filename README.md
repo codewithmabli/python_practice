@@ -1,2 +1,8 @@
 # python_practice
-my first python programme
+
+this repository contain my basic python programs.
+
+## files
+
+hello.py : my first python program 
+more comming soon...
